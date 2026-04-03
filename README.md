@@ -1,15 +1,35 @@
-# My App
+# Fitledger App — Multi-Tenant SaaS Gym Membership System
 
 ## Description
-Laravel API + React TypeScript project.
 
-## Features
-- Authentication
-- Authorization
-- CRUD operations with soft deletes and force delete
+Fitledger is a full-stack SaaS application designed to streamline gym operations. It enables fitness businesses to efficiently manage membership plans, gym members, and equipment within a multi-tenant system architecture.
 
-## Setup
-1. composer install
-2. npm install
-3. php artisan serve
-4. npm run dev
+The platform is actively maintained, with continuous feature enhancements and ongoing user interface improvements.
+
+## Tech Stack
+
+**Backend:**
+
+* Laravel (REST API)
+* Laravel Sanctum (Authentication)
+
+**Frontend:**
+
+* Vue.js
+* TypeScript
+* Pinia (State Management)
+* Axios
+
+## Core Features
+
+* Multi-tenant system (SaaS architecture)
+* Membership plan management
+* Gym member management
+* Equipment tracking
+* Authentication & authorization
+* RESTful API integration
+
+## Status
+
+* Actively maintained
+* Continuous UI/UX improvements
